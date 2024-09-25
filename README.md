@@ -1,2 +1,2 @@
 # Parkinson-s-Detection
-Utilizes clinical data from Kaggle to predict the progression of a Parkinson patients UPDRS stage/rating
+Utilizes clinical protein and peptide data from 248 patients to predict the progression of Parkinson's disease measured by the UPDRS rating
